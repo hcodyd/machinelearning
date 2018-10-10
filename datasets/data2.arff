@@ -1,0 +1,15 @@
+@RELATION space
+
+@ATTRIBUTE xVal	Continuous
+@ATTRIBUTE yVal 	Continuous
+@ATTRIBUTE 'Class' 	{'X', 'Y'}
+
+@DATA
+-0.5,1.0,'X'
+-0.9,0.5,'Y'
+-0.7,0.7,'X'
+-0.6,0.8,'Y'
+0.9,-1.0,'Y'
+0.8,-0.5,'X'
+0.7,-0.8,'X'
+0.6,-0.3,'Y'
